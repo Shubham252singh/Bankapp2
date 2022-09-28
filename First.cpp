@@ -1,7 +1,7 @@
-#include<iostream.h>
+#include<iostream>
 using namespace std;
 
 int main(){
-cout<<"Hello to Everyone";
+cout<<"Hello to Everyone"<<endl;
 return 0;
 }
