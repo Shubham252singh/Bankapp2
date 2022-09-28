@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout<<"hosted--NAMASTE C++ ;) !!!"<<endl;
+cout<<"hosted2--NAMASTE C++ ;) !!!"<<endl;
 return 0;
 }
