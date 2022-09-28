@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
 
-cout<<"FIRST EXECISE FILE 5!!!"
+cout<<"FIRST EXECISE FILE!!!"
 return 0;
 }

@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
 
-cout<<"Third EXERCISE FILE 5"<<endl;
+cout<<"Third EXERCISE FILE "<<endl;
 return 0;
 }
