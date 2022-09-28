@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
 
-cout<<"hosted--How are you my friend!! "<<endl;
+cout<<"hosted2--How are you my friend!! "<<endl;
 return 0;
 }
