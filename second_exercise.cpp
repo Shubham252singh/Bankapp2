@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
 
-cout<<"hosted--SECOND EXERCISE FILE "<<endl;
+cout<<"hosted2--SECOND EXERCISE FILE "<<endl;
 return 0;
 }
